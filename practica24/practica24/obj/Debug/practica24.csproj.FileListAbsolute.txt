@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\bin\Debug\practica24.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\bin\Debug\practica24.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\bin\Debug\practica24.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\obj\Debug\practica24.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\obj\Debug\practica24.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\obj\Debug\practica24.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\obj\Debug\practica24.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica24\practica24\obj\Debug\practica24.pdb

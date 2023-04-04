@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\bin\Debug\practica21.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\bin\Debug\practica21.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\bin\Debug\practica21.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\obj\Debug\practica21.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\obj\Debug\practica21.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\obj\Debug\practica21.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\obj\Debug\practica21.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica21\practica21\obj\Debug\practica21.pdb

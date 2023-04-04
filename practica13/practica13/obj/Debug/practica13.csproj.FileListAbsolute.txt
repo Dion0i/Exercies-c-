@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\bin\Debug\practica13.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\bin\Debug\practica13.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\bin\Debug\practica13.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\obj\Debug\practica13.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\obj\Debug\practica13.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\obj\Debug\practica13.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\obj\Debug\practica13.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica13\practica13\obj\Debug\practica13.pdb

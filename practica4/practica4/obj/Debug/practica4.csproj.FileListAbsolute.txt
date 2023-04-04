@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\bin\Debug\practica4.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\bin\Debug\practica4.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\bin\Debug\practica4.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\obj\Debug\practica4.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\obj\Debug\practica4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\obj\Debug\practica4.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica4\practica4\obj\Debug\practica4.pdb

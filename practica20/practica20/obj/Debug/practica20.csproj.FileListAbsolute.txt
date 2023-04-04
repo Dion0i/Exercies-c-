@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\bin\Debug\practica20.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\bin\Debug\practica20.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\bin\Debug\practica20.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\obj\Debug\practica20.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\obj\Debug\practica20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\obj\Debug\practica20.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\obj\Debug\practica20.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica20\practica20\obj\Debug\practica20.pdb

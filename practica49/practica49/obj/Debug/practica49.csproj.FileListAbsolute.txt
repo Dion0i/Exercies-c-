@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\bin\Debug\practica49.exe.config
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\bin\Debug\practica49.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\bin\Debug\practica49.pdb
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\obj\Debug\practica49.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\obj\Debug\practica49.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\obj\Debug\practica49.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\obj\Debug\practica49.exe
+C:\Users\hp\Desktop\c# - LEVEL Basic and Dificult\practica49\practica49\obj\Debug\practica49.pdb
