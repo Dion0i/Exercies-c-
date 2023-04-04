@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace practica2
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        public void Values() 
         {
             int superficie;
             int lado;
@@ -20,6 +20,12 @@ namespace practica2
             superficie = lado * lado;
             Console.Write("La superficie del cuadrado es: ");
             Console.Write(superficie);
+        }
+        // End method
+        static void Main(string[] args)
+        {
+            Program prg = new Program();
+            prg.Values();
             Console.ReadKey();
         }
     }
